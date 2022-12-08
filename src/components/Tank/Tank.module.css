@@ -1,0 +1,7 @@
+.Tank {
+    max-width: 30px;
+    min-width: 30px;
+    max-height: 30px;
+    min-height: 30px;
+    position: absolute;
+}

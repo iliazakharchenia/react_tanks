@@ -1,0 +1,7 @@
+.Projectile {
+    max-width: 2px;
+    min-width: 2px;
+    max-height: 2px;
+    min-height: 2px;
+    position: absolute;
+}
