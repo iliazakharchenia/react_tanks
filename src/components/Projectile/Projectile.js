@@ -1,5 +1,3 @@
-import React, { useCallback, useEffect, useState } from 'react';
-import PropTypes from 'prop-types';
 import styles from './Projectile.module.css';
 
 const Projectile = (props) => {
